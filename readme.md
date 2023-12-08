@@ -13,4 +13,4 @@ Redesign Zoom website live demo:
 - Vite [https://vitejs.dev/](https://vitejs.dev/)
 - Tailwind [https://tailwindcss.com/](https://tailwindcss.com/)
 - Iconify [https://iconify.design/](https://iconify.design/)
-- Js
+- Js for tabs
